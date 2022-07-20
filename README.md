@@ -1,6 +1,2 @@
-# es-s284746-exeanalyzer
-Parsing Windows executable files using C
-## Author
-P3221 Evgeny Ivanov @AXER-doc
-## Details
-Programming language: C
+# Permanently moved to GitLab
+Link: https://gitlab.com/almo160/es-s284746-exeanalyzer

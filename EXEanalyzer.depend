@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1622279274 source:c:\work\codeblocks\exeanalyzer\main.c
-	<stdio.h>
-	<stdlib.h>
-	<winnt.h>
-
